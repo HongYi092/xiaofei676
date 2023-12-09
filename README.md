@@ -1,1 +1,1 @@
-# xiaofei676
+Convenient to train the model, record all Chinese training resources, a total of 500TB, including video/visual/picture/novel/cleaning/41 Chinese novel websites full set of novel crawling. Covering 90% of the content of Chinese novels
